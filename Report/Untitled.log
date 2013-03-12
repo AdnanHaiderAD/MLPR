@@ -1,0 +1,718 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.13)  12 MAR 2013 23:49
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Untitled.tex
+(./Untitled.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
+(./Untitled.aux)
+\openout1 = `Untitled.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen114
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+./Untitled.tex:23: Missing $ inserted.
+<inserted text> 
+                $
+l.23 $ p(\theta) \sim Pa(b,K) $= \left
+                                      \{ \begin{array}{rcl} \frac{Kb^k}{\the...
+
+? 
+./Untitled.tex:24: Missing delimiter (. inserted).
+<to be read again> 
+                   {
+l.24 
+     
+? 
+./Untitled.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+l.24 
+     
+? 
+./Untitled.tex:24: Missing } inserted.
+<inserted text> 
+                }
+l.24 
+     
+? 
+./Untitled.tex:24: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.24 
+     
+? 
+./Untitled.tex:28: Missing delimiter (. inserted).
+<to be read again> 
+                   {
+l.28 
+     
+? 
+./Untitled.tex:28: Missing $ inserted.
+<inserted text> 
+                $
+l.28 
+     
+? 
+./Untitled.tex:28: Missing } inserted.
+<inserted text> 
+                }
+l.28 
+     
+? 
+./Untitled.tex:28: Display math should end with $$.
+<to be read again> 
+                   \@@par 
+l.28 
+     
+? 
+./Untitled.tex:28: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.28 
+     
+? 
+./Untitled.tex:32: Missing delimiter (. inserted).
+<to be read again> 
+                   \global 
+l.32 ...x{ and } m\leq \theta \end{array}\right \\
+                                                   0 \mbox{ otherwise}\\
+? 
+
+./Untitled.tex:33: LaTeX Error: \begin{eqnarray*} on input line 31 ended by \en
+d{eqnarray}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33  \end{eqnarray}
+                    
+? 
+./Untitled.tex:40: Missing delimiter (. inserted).
+<to be read again> 
+                   \begingroup 
+l.40 \end{flushright}
+                     
+? 
+
+./Untitled.tex:40: LaTeX Error: Command \end{eqnarray*} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \end{flushright}
+                     
+? 
+
+./Untitled.tex:40: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \end{flushright}
+                     
+? 
+
+./Untitled.tex:40: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \end{flushright}
+                     
+? 
+
+./Untitled.tex:40: LaTeX Error: \begin{eqnarray*} on input line 37 ended by \en
+d{flushright}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \end{flushright}
+                     
+? 
+./Untitled.tex:40: Missing } inserted.
+<inserted text> 
+                }
+l.40 \end{flushright}
+                     
+? 
+./Untitled.tex:40: Missing $ inserted.
+<inserted text> 
+                $
+l.40 \end{flushright}
+                     
+? 
+./Untitled.tex:40: Missing } inserted.
+<inserted text> 
+                }
+l.40 \end{flushright}
+                     
+? 
+./Untitled.tex:40: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.40 \end{flushright}
+                     
+? 
+./Untitled.tex:40: Missing { inserted.
+<inserted text> 
+                {
+l.40 \end{flushright}
+                     
+? 
+./Untitled.tex:40: Missing $ inserted.
+<inserted text> 
+                $
+l.40 \end{flushright}
+                     
+? 
+./Untitled.tex:40: Missing $$ inserted.
+<to be read again> 
+                   \endgroup 
+l.40 \end{flushright}
+                     
+? 
+./Untitled.tex:42: Misplaced alignment tab character &.
+\reserved@a ->&
+               
+l.42 \end{eqnarray}
+                   
+? 
+./Untitled.tex:42: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.42 \end{eqnarray}
+                   
+? 
+./Untitled.tex:42: Extra }, or forgotten \endgroup.
+\endeqnarray ->\@@eqncr \egroup 
+                                \global \advance \c@equation \m@ne $$\@ignor...
+l.42 \end{eqnarray}
+                   
+? 
+
+./Untitled.tex:42: LaTeX Error: \begin{flushright} on input line 36 ended by \e
+nd{eqnarray}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \end{eqnarray}
+                   
+? 
+./Untitled.tex:42: Missing $ inserted.
+<inserted text> 
+                $
+l.42 \end{eqnarray}
+                   
+? 
+./Untitled.tex:42: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.42 \end{eqnarray}
+                   
+? 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 54.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
+
+./Untitled.tex:56: Missing delimiter (. inserted).
+<to be read again> 
+                   \begingroup 
+l.56 ...\ 0  \mbox{ otherwise} \end{array}\right\]
+                                                  
+? 
+
+./Untitled.tex:56: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...\ 0  \mbox{ otherwise} \end{array}\right\]
+                                                  
+? 
+./Untitled.tex:57: Missing $ inserted.
+<inserted text> 
+                $
+l.57 
+     
+? 
+./Untitled.tex:57: Missing } inserted.
+<inserted text> 
+                }
+l.57 
+     
+? 
+./Untitled.tex:57: Display math should end with $$.
+<to be read again> 
+                   \@@par 
+l.57 
+     
+? 
+[1
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+./Untitled.tex:57: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.57 
+     
+? 
+
+./Untitled.tex:80: LaTeX Error: \begin{eqnarray*} on input line 74 ended by \en
+d{eqnarray}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{eqnarray}
+                   
+? 
+./Untitled.tex:87: Missing delimiter (. inserted).
+<to be read again> 
+                   \begingroup 
+l.87   \end{array}\right\]
+                          
+? 
+
+./Untitled.tex:87: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87   \end{array}\right\]
+                          
+? 
+./Untitled.tex:88: Missing $ inserted.
+<inserted text> 
+                $
+l.88 
+     
+? 
+./Untitled.tex:88: Missing } inserted.
+<inserted text> 
+                }
+l.88 
+     
+? 
+./Untitled.tex:88: Display math should end with $$.
+<to be read again> 
+                   \@@par 
+l.88 
+     
+? 
+./Untitled.tex:88: Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.88 
+     
+? 
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 90.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 90.
+
+[2]
+./Untitled.tex:96: Missing $ inserted.
+<inserted text> 
+                $
+l.96 As K \longrightarrow
+                          0
+? 
+./Untitled.tex:97: Missing $ inserted.
+<inserted text> 
+                $
+l.97 
+     
+? 
+./Untitled.tex:97: Missing } inserted.
+<inserted text> 
+                }
+l.97 
+     
+? 
+./Untitled.tex:97: Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.97 
+     
+? 
+./Untitled.tex:100: Misplaced alignment tab character &.
+l.100 ...0} p(\theta|D)= \frac{P(\theta,D)}{P(D)}&
+                                                  =& \left\{ \begin {array}{...
+
+? 
+./Untitled.tex:100: Misplaced alignment tab character &.
+l.100 ... p(\theta|D)= \frac{P(\theta,D)}{P(D)}&=&
+                                                   \left\{ \begin {array}{rc...
+
+? 
+./Untitled.tex:102: Missing delimiter (. inserted).
+<to be read again> 
+                   {
+l.102 
+      
+? 
+./Untitled.tex:102: Missing $ inserted.
+<inserted text> 
+                $
+l.102 
+      
+? 
+./Untitled.tex:102: Missing } inserted.
+<inserted text> 
+                }
+l.102 
+      
+? 
+./Untitled.tex:102: Display math should end with $$.
+<to be read again> 
+                   \@@par 
+l.102 
+      
+? 
+./Untitled.tex:102: Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.102 
+      
+? 
+./Untitled.tex:109: Missing $ inserted.
+<inserted text> 
+                $
+l.109 ...\kappa \equiv (N+K) $ but as K\rightarrow
+                                                   0    $ \kappa \equiv N$
+? 
+./Untitled.tex:109: Missing $ inserted.
+<inserted text> 
+                $
+l.109 ...(N+K) $ but as K\rightarrow 0    $ \kappa
+                                                   \equiv N$
+? 
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 118.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 118.
+
+<Pareto.jpg, id=19, 501.875pt x 501.875pt>
+File: Pareto.jpg Graphic file (type jpg)
+ <use Pareto.jpg>
+Package pdftex.def Info: Pareto.jpg used on input line 122.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+ [3]
+<3p.jpg, id=24, 1216.545pt x 630.355pt>
+File: 3p.jpg Graphic file (type jpg)
+ <use 3p.jpg>
+Package pdftex.def Info: 3p.jpg used on input line 141.
+(pdftex.def)             Requested size: 344.005pt x 178.23912pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./Pareto.jpg>]
+
+./Untitled.tex:156: LaTeX Error: \begin{eqnarray*} on input line 152 ended by \
+end{eqnarray}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156  \end {eqnarray}
+                      
+? 
+<3A.jpg, id=28, 623.32875pt x 519.9425pt>
+File: 3A.jpg Graphic file (type jpg)
+ <use 3A.jpg>
+Package pdftex.def Info: 3A.jpg used on input line 170.
+(pdftex.def)             Requested size: 344.005pt x 286.95303pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: 3A.jpg Graphic file (type jpg)
+<use 3A.jpg>
+Package pdftex.def Info: 3A.jpg used on input line 173.
+(pdftex.def)             Requested size: 311.6636pt x 259.97061pt.
+ <3B.jpg, id=29, 562.1pt x 420.57124pt>
+File: 3B.jpg Graphic file (type jpg)
+ <use 3B.jpg>
+Package pdftex.def Info: 3B.jpg used on input line 174.
+(pdftex.def)             Requested size: 281.04932pt x 210.28511pt.
+
+<3C.jpg, id=30, 562.1pt x 420.57124pt>
+File: 3C.jpg Graphic file (type jpg)
+ <use 3C.jpg>
+Package pdftex.def Info: 3C.jpg used on input line 175.
+(pdftex.def)             Requested size: 281.04932pt x 210.28511pt.
+
+<3C2.jpg, id=31, 562.1pt x 420.57124pt>
+File: 3C2.jpg Graphic file (type jpg)
+ <use 3C2.jpg>
+Package pdftex.def Info: 3C2.jpg used on input line 176.
+(pdftex.def)             Requested size: 281.04932pt x 210.28511pt.
+ [5 <./3p.jpg>]
+Overfull \vbox (26.33597pt too high) has occurred while \output is active []
+
+
+[6 <./3A.jpg>] [7 <./3B.jpg> <./3C.jpg>] [8 <./3C2.jpg>] (./Untitled.aux) ) 
+Here is how much of TeX's memory you used:
+ 2290 strings out of 493633
+ 32141 string characters out of 3143377
+ 93594 words of memory out of 3000000
+ 5565 multiletter control sequences out of 15000+200000
+ 8654 words of font info for 33 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 42i,14n,24p,698b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
+</us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
+local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/l
+ocal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/lo
+cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loca
+l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
+2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/201
+1/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Untitled.pdf (8 pages, 318871 bytes).
+PDF statistics:
+ 85 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
