@@ -154,26 +154,65 @@ With incoming data, the posterior distribution of both experts is given by:
  	& =                  & f^k(1-f)^{N-k} f^{n_0 -1}(1-f)^{n_1 -1} \\
 	& =                   &  f^{(k+n_0)-1}(1-f)^{(N+n_1-k)-1}
  \end {eqnarray} 
-here k represents the number of food items seen  that correspond to Soylent red and N corresponds to the total number of food items that has been seen.
+here k represents the number of food items seen  that correspond to Soylent red and N corresponds to the total number of observations that has been made so far..
 
-For Expert 1, the corresponding posterior distribution is given a $p(f|X) =f^{(k+10)-1}(1-f)^{(N+10-k)-1}$ 
+For Expert 1, the corresponding posterior distribution is given by: $p(f|X) =f^{(k+10)-1}(1-f)^{(N+10-k)-1}$ 
 
-And similarly, for expert 2 the corresponding posterior distribution $ p(f|X)= f^{(k+100)-1}(1-f)^{(N+20-k)-1}$
+And similarly, for expert 2 the corresponding posterior distribution is  : $ p(f|X)= f^{(k+100)-1}(1-f)^{(N+20-k)-1}$
 
 Note: 
-The mean and mode of the posterior distributions of both experts change as more  observations made. The mean of the posterior  distribution for expert 1 is $\mu_1 =\frac{K+10}{N+20} $ and similarly the mean of the posterior distribution of expert 2 is $\mu_1 =\frac{K+100}{N+120}$. The terms $K$ and $N$ change with more data arrives. Hence, we can conclude that the belief of both experts change as they continue seeing new data. This is illustrated by the graph in figure 2.
+The mean and mode of the posterior distributions of both experts change as more  observations made. The mean of the posterior  distribution for expert 1 is $\mu_1 =\frac{K+10}{N+20} $ and similarly the mean of the posterior distribution of expert 2 is $\mu_1 =\frac{K+100}{N+120}$. The terms $K$ and $N$ change with more data arrives. Hence, we can conclude that the expectation of seeing a Soylent red rather than Soylent yellow change as they continue seeing new data. This is illustrated by the graph in figure 2.
 
-Observation: Due to the high value for the $n_0$ parameter
+Observation:
+The mean of the posterior distribution $p(f|X)$ for both experts  converge  toward the true value of $f$ as the number of observations increase. This is because the two parameters $k$ and $N$ tends to dominate the numerator and denominator in the expression used to compute the mean  $ \mu  =\frac{k+n_0}{N+n_1}$ as the number of samples increase.
+
+
 \begin{figure}[h!]
-  \caption{Empirical mean over k for each posterior }
+  \caption{Empirical posterior mean $\mu$  over  k against N }
   \centering
     \includegraphics[width=0.8\textwidth]{3A.jpg}
 \end{figure}
 
-\includegraphics[ scale=0.5]{3A.jpg}
-\includegraphics[ scale=0.5]{3B.jpg}
-\includegraphics[ scale=0.5]{3C.jpg}
-\includegraphics[ scale=0.5]{3C2.jpg}
+\subsection{Nature of Convergence}
+
+Observation:
+On careful observation of the plots given by figure 3( where the  posterior mean of each expert at the kth simulation, computed after the nth observation, is presented by the y axis), it can be deduced that the posterior distribution of expert 1 is more responsive to incoming data than that of expert 2's posterior distribution.
+
+Reason : The mean and mode of a beta distribution is given by:
+\[mu  =\frac{k+n_0}{N+n_1} \mbox{ and }  mode  =\frac{k+n_0-1}{N+n_1-2} \]
+The value  $n_0 >> n_1$ in expert 2's posterior distribution and this in fact has a substantial impact on the beliefs of the second expert. Since $n_0 >> n_1$,  a  large of number of observations have to be made  to see substantial changes in the value of the mode and mean of the expert 2's posterior distribution. But this is  not the case for expert 1 where  $n_0 =n_1$,  Hence  the sharp initial slopes of the blue plots after the initial observations clearly show that expert 1's posterior distribution is more sensitive to the data. Further evidence to support this claim can found by observing that the blue plots saturate towards the true value  earlier than the red plots. 
+
+
+\begin{figure}[h!]
+  \caption{The posterior mean $p_{exp}$ for each k against  N  }
+  \centering
+    \includegraphics[width=0.8\textwidth]{3B.jpg}
+\end{figure}
+
+
+
+\subsection{Uncertainty in the long run}
+
+\begin{figure}[h!]
+  \caption{The mean (\underline{+}) standard deviation of the posterior at k=1 against N}
+  \centering
+    \includegraphics[width=0.8\textwidth]{3C.jpg}
+\end{figure}
+\begin{figure}[h!]
+  \caption{The variance of the posterior at k=1 against N }
+  \centering
+    \includegraphics[width=0.8\textwidth]{3C2.jpg}
+\end{figure}
+
+
+Observation :
+From the observation of the plots shown by figure 5 and figure 6, it is clear that the degree of uncertainty regarding the value of $f$ decreases in the long run. This can seen from the decrease in the size of the standard deviation and variation as N increase, The posterior distribution of both experts  thus become narrower  with N with the mean slowly moving toward $f=0.75$ with the increasing number of observations. Intuitively, both experts become more and more sure about the true probability distribution as they encounter more data.
+
+
+
+
+
+
 
 
 
