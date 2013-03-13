@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.13)  13 MAR 2013 12:35
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.13)  13 MAR 2013 14:26
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -155,7 +155,7 @@ e
 LaTeX Warning: Unused global option(s):
     [14pt].
 
-No file Bayes2.aux.
+(./Bayes2.aux)
 \openout1 = `Bayes2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -170,6 +170,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -217,17 +218,30 @@ LaTeX Font Info:    ... okay on input line 11.
 \MPnumerator=\count96
 \makeMPintoPDFobject=\count97
 \everyMPtoPDFconversion=\toks18
-) <4A.jpg, id=1, 997.7275pt x 717.68124pt>
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+<4A.jpg, id=1, 997.7275pt x 717.68124pt>
 File: 4A.jpg Graphic file (type jpg)
  <use 4A.jpg>
-Package pdftex.def Info: 4A.jpg used on input line 16.
-(pdftex.def)             Requested size: 344.005pt x 247.44698pt.
+Package pdftex.def Info: 4A.jpg used on input line 23.
+(pdftex.def)             Requested size: 430.00462pt x 309.30873pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <4b.jpg, id=2, 562.1pt x 420.57124pt>
 File: 4b.jpg Graphic file (type jpg)
  <use 4b.jpg>
-Package pdftex.def Info: 4b.jpg used on input line 21.
-(pdftex.def)             Requested size: 344.005pt x 257.38876pt.
+Package pdftex.def Info: 4b.jpg used on input line 32.
+(pdftex.def)             Requested size: 430.00462pt x 321.73596pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -235,31 +249,36 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <4C.jpg, id=3, 1216.545pt x 630.355pt>
 File: 4C.jpg Graphic file (type jpg)
  <use 4C.jpg>
-Package pdftex.def Info: 4C.jpg used on input line 26.
-(pdftex.def)             Requested size: 344.005pt x 178.23912pt.
+Package pdftex.def Info: 4C.jpg used on input line 38.
+(pdftex.def)             Requested size: 430.00462pt x 222.80132pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [1
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./4A.jp
-g>] [2 <./4b.jpg> <./4C.jpg>] (./Bayes2.aux) ) 
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2 <./4A.jpg>] [3 <./4b.jpg>] [4 <./4C.jpg>] (./Bayes2.aux) ) 
 Here is how much of TeX's memory you used:
- 2214 strings out of 493633
- 30972 string characters out of 3143377
- 87593 words of memory out of 3000000
- 5514 multiletter control sequences out of 15000+200000
- 4245 words of font info for 16 fonts, out of 3000000 for 9000
+ 2247 strings out of 493633
+ 31519 string characters out of 3143377
+ 88593 words of memory out of 3000000
+ 5531 multiletter control sequences out of 15000+200000
+ 6857 words of font info for 27 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,5n,24p,386b,226s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Bayes2.pdf (2 pages, 264687 bytes).
+ 42i,6n,24p,386b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texliv
+e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive
+/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/
+2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2
+011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/20
+11/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2011
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on Bayes2.pdf (4 pages, 309392 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
- 12 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.13)  13 MAR 2013 12:35
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.13)  13 MAR 2013 16:41
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -671,50 +671,78 @@ Package pdftex.def Info: 3B.jpg used on input line 189.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<3C.jpg, id=34, 562.1pt x 420.57124pt>
+[6 <./3A.jpg>] [7 <./3B.jpg>] <3C.jpg, id=41, 562.1pt x 420.57124pt>
 File: 3C.jpg Graphic file (type jpg)
- <use 3C.jpg>
-Package pdftex.def Info: 3C.jpg used on input line 199.
+
+<use 3C.jpg>
+Package pdftex.def Info: 3C.jpg used on input line 204.
 (pdftex.def)             Requested size: 344.005pt x 257.38876pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<3C2.jpg, id=35, 562.1pt x 420.57124pt>
+ <3C2.jpg, id=42, 562.1pt x 420.57124pt>
 File: 3C2.jpg Graphic file (type jpg)
  <use 3C2.jpg>
-Package pdftex.def Info: 3C2.jpg used on input line 204.
-(pdftex.def)             Requested size: 344.005pt x 257.38876pt.
+Package pdftex.def Info: 3C2.jpg used on input line 210.
+(pdftex.def)             Requested size: 281.04932pt x 210.28511pt.
+ [8 <./3C.jpg> <./3C2.jpg>] <4A.jpg, id=46, 997.7275pt x 717.68124pt>
+File: 4A.jpg Graphic file (type jpg)
+ <use 4A.jpg>
+Package pdftex.def Info: 4A.jpg used on input line 228.
+(pdftex.def)             Requested size: 430.00462pt x 309.30873pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6 <./3A.jpg>] [7 <./3B.jpg>] [8 <./3C.jpg>] [9 <./3C2.jpg>] (./Untitled.aux) )
- 
+<4b.jpg, id=47, 562.1pt x 420.57124pt>
+File: 4b.jpg Graphic file (type jpg)
+ <use 4b.jpg>
+Package pdftex.def Info: 4b.jpg used on input line 235.
+(pdftex.def)             Requested size: 430.00462pt x 321.73596pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] [10 <./4A.jpg>] [11 <./4b.jpg>]
+./Untitled.tex:252: Undefined control sequence.
+<recently read> \lamda 
+                       
+l.252 ...ards being linear with increasing $\lamda
+                                                  $.
+? 
+<4C.jpg, id=57, 1216.545pt x 630.355pt>
+File: 4C.jpg Graphic file (type jpg)
+ <use 4C.jpg>
+Package pdftex.def Info: 4C.jpg used on input line 257.
+(pdftex.def)             Requested size: 547.4402pt x 283.65712pt.
+
+Overfull \hbox (117.43558pt too wide) in paragraph at lines 257--258
+ [][]
+ []
+
+[12 <./4C.jpg>] (./Untitled.aux) ) 
 Here is how much of TeX's memory you used:
- 2290 strings out of 493633
- 32141 string characters out of 3143377
+ 2306 strings out of 493633
+ 32293 string characters out of 3143377
  93594 words of memory out of 3000000
- 5565 multiletter control sequences out of 15000+200000
+ 5578 multiletter control sequences out of 15000+200000
  8654 words of font info for 33 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,14n,24p,698b,300s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
-usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
-sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
-r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
-local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/lo
-cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
-exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texl
-ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive
-/2011/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Untitled.pdf (9 pages, 323456 bytes).
+ 42i,14n,24p,821b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
+symbols/msam10.pfb>
+Output written on Untitled.pdf (12 pages, 577302 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 100 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
