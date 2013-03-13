@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.13)  12 MAR 2013 23:49
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.13)  13 MAR 2013 12:35
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -656,38 +656,41 @@ l.156  \end {eqnarray}
 <3A.jpg, id=28, 623.32875pt x 519.9425pt>
 File: 3A.jpg Graphic file (type jpg)
  <use 3A.jpg>
-Package pdftex.def Info: 3A.jpg used on input line 170.
+Package pdftex.def Info: 3A.jpg used on input line 173.
 (pdftex.def)             Requested size: 344.005pt x 286.95303pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: 3A.jpg Graphic file (type jpg)
-<use 3A.jpg>
-Package pdftex.def Info: 3A.jpg used on input line 173.
-(pdftex.def)             Requested size: 311.6636pt x 259.97061pt.
- <3B.jpg, id=29, 562.1pt x 420.57124pt>
+[5 <./3p.jpg>] <3B.jpg, id=33, 562.1pt x 420.57124pt>
 File: 3B.jpg Graphic file (type jpg)
  <use 3B.jpg>
-Package pdftex.def Info: 3B.jpg used on input line 174.
-(pdftex.def)             Requested size: 281.04932pt x 210.28511pt.
+Package pdftex.def Info: 3B.jpg used on input line 189.
+(pdftex.def)             Requested size: 344.005pt x 257.38876pt.
 
-<3C.jpg, id=30, 562.1pt x 420.57124pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3C.jpg, id=34, 562.1pt x 420.57124pt>
 File: 3C.jpg Graphic file (type jpg)
  <use 3C.jpg>
-Package pdftex.def Info: 3C.jpg used on input line 175.
-(pdftex.def)             Requested size: 281.04932pt x 210.28511pt.
+Package pdftex.def Info: 3C.jpg used on input line 199.
+(pdftex.def)             Requested size: 344.005pt x 257.38876pt.
 
-<3C2.jpg, id=31, 562.1pt x 420.57124pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3C2.jpg, id=35, 562.1pt x 420.57124pt>
 File: 3C2.jpg Graphic file (type jpg)
  <use 3C2.jpg>
-Package pdftex.def Info: 3C2.jpg used on input line 176.
-(pdftex.def)             Requested size: 281.04932pt x 210.28511pt.
- [5 <./3p.jpg>]
-Overfull \vbox (26.33597pt too high) has occurred while \output is active []
+Package pdftex.def Info: 3C2.jpg used on input line 204.
+(pdftex.def)             Requested size: 344.005pt x 257.38876pt.
 
 
-[6 <./3A.jpg>] [7 <./3B.jpg> <./3C.jpg>] [8 <./3C2.jpg>] (./Untitled.aux) ) 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./3A.jpg>] [7 <./3B.jpg>] [8 <./3C.jpg>] [9 <./3C2.jpg>] (./Untitled.aux) )
+ 
 Here is how much of TeX's memory you used:
  2290 strings out of 493633
  32141 string characters out of 3143377
@@ -695,24 +698,23 @@ Here is how much of TeX's memory you used:
  5565 multiletter control sequences out of 15000+200000
  8654 words of font info for 33 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,14n,24p,698b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
-</us
-r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr
-/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/l
-ocal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/lo
-cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/
-texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
-xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
-ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
-2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
-011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/201
-1/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Untitled.pdf (8 pages, 318871 bytes).
+ 42i,14n,24p,698b,300s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/lo
+cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texl
+ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive
+/2011/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Untitled.pdf (9 pages, 323456 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
